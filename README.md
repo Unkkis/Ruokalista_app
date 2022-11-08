@@ -1,5 +1,10 @@
 # Ruokalista_app
 
+App made with Spring Boot, front with Thymeleaf.
+
+
+--------------
+
 Appsi, johon voi tallettaa eri ruokia (reseptejä?)
 
 appsi myös arpoo ruokalistan viikoksi (tai useammaksi) (yksi ruoka/päivä) tietokannassa olevista resepteistä.
@@ -13,9 +18,4 @@ Databasessa taulut siis (tämä ei vielä valmis):
 - ainekset (tämän ja reseptien välillä many-to-many)
 - missä tehdään (uuni, pannu, grilli, pata?)
 
-
-ToDo:
-- Etusivu
-- ainesten lisääminen databaseen reseptin luomisen yhteydessä
-- ainesten valinta reseptiin helpommaksi
 
