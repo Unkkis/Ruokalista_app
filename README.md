@@ -1,6 +1,7 @@
 # Ruokalista_app
 
 App made with Spring Boot, front with Thymeleaf.
+Live version in ruokalista.unkkis.com
 
 
 --------------
